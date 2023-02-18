@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab7_intent</string>
+    <string name="please_enter_username">Please enter Username</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="login">Login</string>
+
+    <string name="loginPreference">LoginPreference</string>
+    <string name="loginStatus">LoginStatus</string>
+    <string name="uname">admin</string>
+    <string name="upass">admin@123</string>
+</resources>
